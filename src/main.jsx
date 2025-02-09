@@ -27,24 +27,24 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
-        loader: () => fetch('../public/categorues.json'),
+        loader: () => fetch('/categorues.json'),
         children:[
           {
             path:'/',
             element: <ProductsCard></ProductsCard>,
-            loader: () => fetch('../public/allProducts.json')
+            loader: () => fetch('/allProducts.json')
           },
           {
             path:'/category/:category',
             element: <ProductsCard></ProductsCard>,
-            loader: () => fetch('../public/allProducts.json')
+            loader: () => fetch('/allProducts.json')
           },
         ]
       },
       {
         path:'/product/:product_id',
         element: <ProductDetail></ProductDetail>,
-        loader: () => fetch('../public/allProducts.json')
+        loader: () => fetch('/allProducts.json')
       },
       {
         path: "dashboard",
@@ -53,12 +53,12 @@ const router = createBrowserRouter([
           {
             path:'cart',
             element:<DashboardCard></DashboardCard>,
-            loader: ()=> fetch('../public/allProducts.json')
+            loader: ()=> fetch('/allProducts.json')
           },
           {
             path:'wishlist',
             element:<DBWishlist></DBWishlist>,
-            loader:()=>fetch('../public/allProducts.json')
+            loader:()=>fetch('/allProducts.json')
           }
         ]
         

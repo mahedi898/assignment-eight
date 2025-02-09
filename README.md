@@ -8,6 +8,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+Live link =>>> https://voluble-muffin-7e82bd.netlify.app/
+Code link =>>> https://github.com/mahedi898/assignment-eight
+
+
 
 Q1. List of React Fundamental concepts used in the project give a
 Q2. What you have used for handling and managing data (context
