@@ -1,0 +1,234 @@
+[
+    {
+      "product_id": "201",
+      "product_title": "Gaming Laptop - Razer Blade 15",
+      "product_image": "https://i.ibb.co.com/M5y65vTV/blade-14-10.jpg",
+      "category": "Laptops",
+      "price": 1599.99,
+      "description": "A powerful gaming laptop with a 15.6-inch display, Intel i7 processor, and NVIDIA GTX 1660 Ti graphics.",
+      "specification": {
+        "processor": "Intel Core i7",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "screen_size": "15.6 inches",
+        "graphics_card": "NVIDIA GTX 1660 Ti"
+      },
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "202",
+      "product_title": "MacBook Pro 16-inch M1 Max",
+      "product_image": "https://i.ibb.co.com/cSJMY0QW/Macbook-Pro-M1-Pro-16-inch-i-Stock-BD1-66b31b38-50c4-454a-ab86-38fe59d0745a.webp",
+      "category": "Laptops",
+      "price": 2499.99,
+      "description": "High-performance MacBook with Apple M1 Max chip, 16-inch Retina display, and 64GB RAM.",
+      "specification": {
+        "processor": "Apple M1 Max chip",
+        "ram": "64GB",
+        "storage": "1TB SSD",
+        "screen_size": "16 inches",
+        "graphics_card": "Apple Integrated"
+      },
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "203",
+      "product_title": "iPhone 14 Pro Max",
+      "product_image": "https://i.ibb.co.com/Rkh3KdKh/apple-iphone-14-pro-max-gold-official-image.webp",
+      "category": "Phones",
+      "price": 1099.99,
+      "description": "The latest iPhone with A16 Bionic chip, 6.7-inch Super Retina XDR display, and Pro camera system.",
+      "specification": {
+        "processor": "A16 Bionic chip",
+        "storage": "128GB",
+        "screen_size": "6.7 inches",
+        "camera": "48MP Pro camera",
+        "battery_life": "Up to 29 hours"
+      },
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "204",
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://i.ibb.co.com/LXTp5kVK/Galaxy-S23-Ultra-Cream-1280.jpg",
+      "category": "Phones",
+      "price": 1299.99,
+      "description": "Flagship phone with a 200MP camera, Snapdragon 8 Gen 2, and a 6.8-inch Dynamic AMOLED display.",
+      "specification": {
+        "processor": "Snapdragon 8 Gen 2",
+        "storage": "256GB",
+        "screen_size": "6.8 inches",
+        "camera": "200MP Pro camera",
+        "battery_life": "Up to 24 hours"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "205",
+      "product_title": "Apple Watch Series 8",
+      "product_image": "https://i.ibb.co.com/RT5ztyth/Apple-Watch-Series-8-Red-GPS-3835.jpg",
+      "category": "Smartwatches",
+      "price": 399.99,
+      "description": "A fitness-focused smartwatch with ECG and blood oxygen monitoring, always-on display.",
+      "specification": {
+        "display_size": "1.9 inches",
+        "battery_life": "18 hours",
+        "water_resistance": "50 meters",
+        "compatible_os": "iOS"
+      },
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "206",
+      "product_title": "Garmin Fenix 7 Solar",
+      "product_image": "https://i.ibb.co.com/wN7H58JH/71h-HQRz-Msa-L-AC-SX300-SY300-QL70-FMwebp.webp",
+      "category": "Smartwatches",
+      "price": 799.99,
+      "description": "Solar-powered GPS smartwatch with health tracking, heart rate monitoring, and multi-sport modes.",
+      "specification": {
+        "display_size": "1.3 inches",
+        "battery_life": "Up to 18 days (solar)",
+        "water_resistance": "10 ATM",
+        "compatible_os": "iOS, Android"
+      },
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "207",
+      "product_title": "MacBook Air M2",
+      "product_image": "https://i.ibb.co.com/MDwFHvFr/Mac-Book-Air-M2-Silver-8305.jpg",
+      "category": "Laptops",
+      "price": 1199.99,
+      "description": "A lightweight MacBook with Apple's M2 chip, 13.6-inch Retina display, and 18 hours of battery life.",
+      "specification": {
+        "processor": "Apple M2 chip",
+        "ram": "8GB",
+        "storage": "256GB SSD",
+        "screen_size": "13.6 inches",
+        "battery_life": "Up to 18 hours"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "208",
+      "product_title": "iPhone 13 Pro",
+      "product_image": "https://i.ibb.co.com/8nvS8prn/Alpine-Green-1998.jpg",
+      "category": "Phones",
+      "price": 999.99,
+      "description": "iPhone 13 Pro with 5G capability, 6.1-inch Super Retina display, and A15 Bionic chip.",
+      "specification": {
+        "processor": "A15 Bionic chip",
+        "storage": "128GB",
+        "screen_size": "6.1 inches",
+        "camera": "12MP Pro camera",
+        "battery_life": "Up to 22 hours"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "209",
+      "product_title": "Beats Fit Pro Wireless Earbuds",
+      "product_image": "https://i.ibb.co.com/B50hSZhz/3976-27705.jpg",
+      "category": "Accessories",
+      "price": 199.99,
+      "description": "Premium noise-cancelling earbuds with secure-fit ear tips, great for workouts and travel.",
+      "specification": {
+        "battery_life": "6 hours",
+        "bluetooth_version": "5.0",
+        "charging_case": "Yes",
+        "weight": "55g"
+      },
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "210",
+      "product_title": "Apple Pencil (2nd Generation)",
+      "product_image": "https://i.ibb.co.com/RpKRYrhG/1560-45417.jpg",
+      "category": "Accessories",
+      "price": 129.99,
+      "description": "Precision stylus for iPad with wireless charging and improved responsiveness.",
+      "specification": {
+        "compatibility": "iPad Pro, iPad Air",
+        "charging": "Magnetic charging",
+        "weight": "20.7g"
+      },
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "211",
+      "product_title": "AirPods Pro (2nd Generation)",
+      "product_image": "https://i.ibb.co.com/TMPB7L5W/airpods-pro-2nd-generation-01-500x500.webp",
+      "category": "Accessories",
+      "price": 249.99,
+      "description": "Active noise cancellation, Transparency mode, and Adaptive EQ in a premium in-ear design.",
+      "specification": {
+        "battery_life": "6 hours",
+        "bluetooth_version": "5.3",
+        "charging_case": "Yes (wireless)",
+        "weight": "5.3g"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "212",
+      "product_title": "Asus TUF Gaming Laptop",
+      "product_image": "https://i.ibb.co.com/60CKNnM3/tuf-gaming-a15-fa506nf-front-500x500.webp",
+      "category": "Laptops",
+      "price": 1399.99,
+      "description": "Durable gaming laptop with Intel i7 processor and NVIDIA GeForce RTX 3070 graphics.",
+      "specification": {
+        "processor": "Intel Core i7",
+        "ram": "16GB",
+        "storage": "1TB SSD",
+        "screen_size": "15.6 inches",
+        "graphics_card": "NVIDIA GeForce RTX 3070"
+      },
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "213",
+      "product_title": "OnePlus 11 5G",
+      "product_image": "https://i.ibb.co.com/GgQNSN4/One-Plus-11-1-7783.jpg",
+      "category": "Phones",
+      "price": 899.99,
+      "description": "Flagship OnePlus phone with Snapdragon 8 Gen 2, 120Hz AMOLED display, and 50MP triple camera.",
+      "specification": {
+        "processor": "Snapdragon 8 Gen 2",
+        "storage": "128GB",
+        "screen_size": "6.7 inches",
+        "camera": "50MP Triple camera",
+        "battery_life": "Up to 21 hours"
+      },
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "214",
+      "product_title": "Fossil Gen 6 Smartwatch",
+      "product_image": "https://i.ibb.co.com/S7KfmnQ3/0037352-fossil-mens-gen-6-smartwatch-black-stainless-steel-mesh-ftw4066v.jpg",
+      "category": "Smartwatches",
+      "price": 299.99,
+      "description": "Stylish smartwatch with Wear OS by Google, heart rate monitoring, and extended battery life.",
+      "specification": {
+        "display_size": "1.28 inches",
+        "battery_life": "Up to 24 hours",
+        "water_resistance": "3 ATM",
+        "compatible_os": "iOS, Android"
+      },
+      "availability": true,
+      "rating": 4.4
+    }
+  ]
+  
